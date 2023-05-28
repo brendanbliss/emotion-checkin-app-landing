@@ -95,6 +95,7 @@ export const Privacy = (props) => {
                       <a
                         href="https://emotioncheckin.flutterflow.app"
                         target="_blank"
+                        rel="noreferrer"
                         data-custom-class="link"
                       >
                         https://emotioncheckin.flutterflow.app

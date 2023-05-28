@@ -22,6 +22,7 @@ export const Header = (props) => {
                 <a
                   href="https://app.emotioncheckin.com/"
                   target="_blank"
+                  rel="noreferrer"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Download
