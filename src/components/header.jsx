@@ -15,9 +15,16 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
+                  className="btn btn-secondary btn-lg"
                 >
                   Learn More
+                </a>{" "}
+                <a
+                  href="https://app.emotioncheckin.com/"
+                  target="_blank"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Download
                 </a>{" "}
               </div>
             </div>
